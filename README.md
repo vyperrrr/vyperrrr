@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gerzsenyi Patrik</h1>
 <h3 align="center">A passionate frontend developer from Hungary</h3>
-
-- 🔭 I’m currently working on **a Quiz App**
-
-- 🌱 I’m currently learning **React/Redux/Next/Electron**
-
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **gpatrik101@gmail.com**
+<ul>
+  <li>🔭 I’m currently working on **a Quiz App**</li>
+  <li>🌱 I’m currently learning **React/Redux/Next/Electron**</li>
+  <li>💬 Ask me about **anything**</li>
+  <li>📫 How to reach me **gpatrik101@gmail.com**</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
