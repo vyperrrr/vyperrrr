@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **a Quiz App**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React/Redux**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **gpatrik101@gmail.com**
 
