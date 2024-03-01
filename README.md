@@ -5,7 +5,7 @@
   <li>🔭 I’m currently working on a <strong>Quiz App</strong></li>
   <li>🌱 I’m currently learning <strong>React/Redux/Next/Electron</strong></li>
   <li>💬 Ask me about <strong>anything</strong></li>
-  <li>📫 How to reach me <strong>>gpatrik101@gmail.com</strong></li>
+  <li>📫 How to reach me <strong>gpatrik101@gmail.com</strong></li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
