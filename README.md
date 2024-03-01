@@ -2,10 +2,10 @@
 <h3 align="center">A passionate frontend developer from Hungary</h3>
 <br>
 <ul>
-  <li>🔭 I’m currently working on **a Quiz App**</li>
-  <li>🌱 I’m currently learning **React/Redux/Next/Electron**</li>
-  <li>💬 Ask me about **anything**</li>
-  <li>📫 How to reach me **gpatrik101@gmail.com**</li>
+  <li>🔭 I’m currently working on a <strong>Quiz App</strong></li>
+  <li>🌱 I’m currently learning <strong>React/Redux/Next/Electron</strong></li>
+  <li>💬 Ask me about <strong>anything</strong></li>
+  <li>📫 How to reach me <strong>>gpatrik101@gmail.com</strong></li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
