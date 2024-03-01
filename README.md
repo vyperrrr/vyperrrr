@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Quiz App**
 
-- 🌱 I’m currently learning **React/Redux**
+- 🌱 I’m currently learning **React/Redux/Next**
 
 - 💬 Ask me about **anything**
 
