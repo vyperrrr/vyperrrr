@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gerzsenyi Patrik</h1>
+<h1 align="center">Hi, 🙋🏻 I'm Gerzsenyi Patrik</h1>
 <h3 align="center">A passionate frontend developer from Hungary</h3>
 <br>
 <ul>
