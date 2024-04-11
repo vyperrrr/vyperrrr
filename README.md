@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Hungary</h3>
 <br>
 <ul>
-  <li>🔭 I’m currently working on a <strong>Quiz App</strong></li>
+  <li>🔭 I’m currently working on a <strong>Laravel-React-Inertia game application</strong></li>
   <li>🌱 I’m currently learning <strong>React/Redux/Next/Electron</strong></li>
   <li>💬 Ask me about <strong>anything</strong></li>
 </ul>
