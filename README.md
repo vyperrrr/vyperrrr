@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Gerzsenyi Patrik</h1>
+<h1>Hi, my name is Patrik Gerzsenyi</h1>
 <code>I'm a CS student currently looking for an internship</code>
 <h3 align="left">Languages and tools that I've already worked with</h3>
 <p align="left">
