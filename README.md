@@ -34,7 +34,7 @@
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vyperrrr&" alt="vyperrrr" />
 </p>
-<p>&nbsp;
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=vyperrrr&show_icons=true&locale=en" alt="vyperrrr" />
 </p>
 <p>
