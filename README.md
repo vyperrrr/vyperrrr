@@ -1,4 +1,4 @@
-<h1>Hi, my name is Patrik Gerzsenyi ⎛⎝ ≽ > ⩊ < ≼ ⎠⎞</h1>
+<h1>Hi, ⎛⎝ ≽ > ⩊ < ≼ ⎠⎞ my name is Patrik Gerzsenyi</h1>
 <code>I'm a CS student currently looking for an internship 🧑‍💻</code>
 <ul>
   <li><p><small>📫 How to reach me <a href="mailto:gpatrik101@gmail.com"><strong>gpatrik101@gmail.com</strong></a></small></p></li>
