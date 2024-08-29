@@ -2,7 +2,7 @@
 <code>I'm a CS student currently looking for an internship 🧑‍💻</code>
 <ul>
   <li><p><small>📫 How to reach me <a href="mailto:gpatrik101@gmail.com"><strong>gpatrik101@gmail.com</strong></a></small></p></li>
-  <li><p><small>📝 Check out my <a href="https://portfolio-d5czd6zhq-vyperrrrs-projects.vercel.app/" target="_blank"><strong>portfolio</strong></a>‼️</small></p></li>
+  <li><p><small>📝 Check out my <a href="https://portfolio-d5czd6zhq-vyperrrrs-projects.vercel.app/"><strong>portfolio</strong></a>‼️</small></p></li>
   <li><p>⚡ Fun fact I only take cold showers</p></li>
 </ul>
 <h3 align="left">Languages and tools</h3>
