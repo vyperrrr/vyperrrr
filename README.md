@@ -1,6 +1,9 @@
 <h1>Hi, my name is Patrik Gerzsenyi</h1>
 <code>I'm a CS student currently looking for an internship</code>
-<h3 align="left">Languages and tools that I've already worked with</h3>
+<ul>
+  <li><p><small>📫 How to reach me <a href="mailto:gpatrik101@gmail.com"><strong>gpatrik101@gmail.com</strong></a></small></p></li>
+</ul>
+<h3 align="left">Languages and tools</h3>
 <p align="left">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
