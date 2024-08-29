@@ -1,4 +1,5 @@
 <h1>Hi 👋, I'm Gerzsenyi Patrik</h1>
+<code>I'm a CS student currently looking for an internship</code>
 <h3 align="left">Languages and tools that I've already worked with</h3>
 <p align="left">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
