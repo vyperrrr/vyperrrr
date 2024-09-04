@@ -5,7 +5,7 @@
   <li><p><small>📝 Check out my <a href="#"><strong>portfolio</strong></a>‼️</small> (loading...)</p></li>
   <li><p>⚡ Fun fact I only take cold showers</p></li>
 </ul>
-<h3 align="left">Languages and tools</h3>
+<h3 align="left">Languages and tools:</h3>
 <p align="left">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
